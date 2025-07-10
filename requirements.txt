@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu
+sentence-transformers
+python-pptx
+python-docx
+pypdf
+pandas
+openai
